@@ -15,7 +15,6 @@ Your database will be saved, where the python file is saved.
 
 # Links to go off of
 ## TW: these videos are very disturbing and should only be viewed if you are willing to take the risk of traumatizing yourself
-https://www.justice.gov/epstein/files/DataSet%2010/EFTA01648586.mp4<br>
 https://www.justice.gov/epstein/files/DataSet%2010/EFTA01688321.mp4<br>
 https://www.justice.gov/epstein/files/DataSet%2010/EFTA01688351.mp4<br> 
 https://www.justice.gov/epstein/files/DataSet%2010/EFTA01688355.mp4<br> 

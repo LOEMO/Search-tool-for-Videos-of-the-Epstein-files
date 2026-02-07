@@ -6,7 +6,7 @@
 
 ## Keybinds:
 -'d' for next video<br>
--'a' for prevois video<br>
+-'a' for previous video<br>
 -'m' to memorize a video in the database<br>
 
 ## Database

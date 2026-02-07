@@ -1,4 +1,4 @@
-# Before this tool can be used, you have to assure that the libraries pyautui and pynput are already installed.
+# Before this tool can be used, you have to assure that the libraries pyautogui and pynput are already installed.
 
 ## If the libraries arent already installed 
 -run 'py -m pip install pynput pyautogui' in your cmd for Windows<br>

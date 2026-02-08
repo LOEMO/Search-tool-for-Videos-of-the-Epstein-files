@@ -8,6 +8,7 @@
 -'d' for next video<br>
 -'a' for previous video<br>
 -'m' to memorize a video in the database<br>
+-'ctrl+c' to close the tool<br>
 
 ## Database
 the database is called 'mem_links1.txt'. Here are all you memorized Links saved (In order and with timestamps)<br>
